@@ -1,7 +1,7 @@
 <?php
 include_once 'layouts/navb.php';
 ?>
- 
+
 <div id="headerwrap">
     <div class="container">
         <div class="row">
@@ -57,7 +57,7 @@ include_once 'layouts/navb.php';
                             <p class="card-text" style="text-align: justify; font-size: 13px;"><b>Versiones:</b> </p>
                         </div>
                         <div class="card-footer">
-                        <p class="card-text" style="text-align: justify; font-size: 11px;"><b>Link: </b><a href="" target="_blank" style="text-decoration: none; color:black"></a></p>
+                            <p class="card-text" style="text-align: justify; font-size: 11px;"><b>Link: </b><a href="" target="_blank" style="text-decoration: none; color:black"></a></p>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ include_once 'layouts/navb.php';
                         </div>
                     </div>
                 </div>
-                <div>  
+                <div>
                     <br>
                 </div>
                 <div class="col-md-4">
@@ -183,7 +183,7 @@ include_once 'layouts/navb.php';
                             <p class="card-text" style="text-align: justify; font-size: 13px;"><b>Versiones:</b> </p>
                         </div>
                         <div class="card-footer">
-                            <p class="card-text" style="text-align: justify; font-size: 13px;"><b>Link: </b></p>
+                            <p class="card-text" style="text-align: justify; font-size: 11px;"><b>Link: </b><a href="https://es.libreoffice.org/" target="_blank" style="text-decoration: none; color:black">https://es.libreoffice.org/</a></p>
                         </div>
                     </div>
                 </div>
@@ -214,4 +214,4 @@ include_once 'layouts/navb.php';
 </div>
 <?php
 include_once 'layouts/footer.php'
-?> 
+?>
